@@ -17,3 +17,4 @@ const CONFIG = {
     messDesc: 'Thi xong anh đèo bé đi chơi nhaaaa 🥰🥰🥰',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/t/100009096295565'
+}
