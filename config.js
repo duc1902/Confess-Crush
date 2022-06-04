@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Demo",
+    titleWeb: 'Demo',
     introTitle: 'Gửi cho em bé béo',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Thi xong anh đèo bé đi chơi nhaaaa 🥰🥰🥰',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100009096295565'
+    messLink: 'https://www.facebook.com/messages/t/100009096295565',
 }
